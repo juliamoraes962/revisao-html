@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
 }
+
 body{
     background-color: #fefae0;
     height: 98vh;
@@ -8,7 +9,7 @@ body{
 }
 
 .menu{
-    background-color: #bfcc96;
+    background-color: #a5af85;
     height: 98vh;
     width: 30vw;
     color:#faedcd;
@@ -53,7 +54,7 @@ a{
 }
 
 .principal{
-    background-color: #dae29d;
+    background-color: #ccd5ae;
     height: 98vh;
     width: 98vw;
 }
@@ -101,6 +102,7 @@ img{
     height: 244px;
 
 }
+
 .imagens{
     font-size: 19px; 
     display: flex;
